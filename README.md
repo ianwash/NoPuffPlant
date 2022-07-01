@@ -1,5 +1,7 @@
 # No Puff Plant
 
+[Watch the demo here!](https://www.youtube.com/watch?v=vjTiVGpJE0A)
+
 ## Welcome & About the App!
   Welcome to our No Puff Plant repository! Our app is designed to help those who vape reduce their intake. Through a modern yet cute, animated interface, the No Puff Plant allows users to set daily and weekly goals for how much they want to reduce their vape intake by.
   
